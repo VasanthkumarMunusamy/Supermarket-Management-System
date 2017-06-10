@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Supermarket.exe" version="1.0.0.1" publicKeyToken="02949495df15648d" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Supermarket" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Supermarket.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Supermarket.exe" size="87552">
+      <assemblyIdentity name="Supermarket" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kEBabQz57h4yh1j25k3MVpMDVlw4w36nuEaPRlv0fzs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Supermarket.exe.config" size="512">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zMr4U3iQatc2weP83DR+beVV1eNwylPlhsj/YXTifN0=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=varun-PC\varun" issuerKeyHash="37d06e4acd846b75256cf4b33f67a61754a498d8" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>CjdUw/Ji9qgct4aOrQssAui903rVd9AK8KJehYp9Uuw=</DigestValue></Reference></SignedInfo><SignatureValue>oaETnT3eV8sqLNgvpsINLad06MXYSsIc0UJcfmiuFzmZtiG1s+e2UnTgxikmJo0NRkpUO3on4hz4cEtmNONrmo0GIaF2l+95vSQhGLqn+S0+driDyvXUIDigHEob8ITFDd+4NRLj31RzlpUCuCovPVkzkZbNiqkooyJg5QexUjI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>pgISVGDJo5i3UGBOiWEHkqC+Z6YigFmyZazNONFTnjST+AhnTGEtAM3Bd42/tAOnPR8J22vTDCEf4/Qz1n7ZH5ug40cjH9qOIx+bz7keayp3rz7LsWx0OH7CuzfxhObfemJYVlro1bVA0Utvc6NHSMJgida5EWmxpl/xY7FphFE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="ec527d8a855ea2f00ad077d57ad3bde8022c0bad8e86b71ca8f662f2c354370a" Description="" Url=""><as:assemblyIdentity name="Supermarket.exe" version="1.0.0.1" publicKeyToken="02949495df15648d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=varun-PC\varun</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yXdZrl8s7YqCW5UwAgZ2Bkh0jUoMipF7Ob2SGwfyFWU=</DigestValue></Reference></SignedInfo><SignatureValue>DlhHYlNOpHEfC3M3Y6pk/HTFBWRz2kX7aIjWWAJBa53ZGWTl0VTdCaSRZuz1zDDO5H6WUMVnGJe4o8AHeMC9JAg3KcQ6TGbH1vQ/Rvd4jUx+Y5Zq1GwIOQPA3XBSvUJtTPnNOgFwIYn4+24utMCZiNpXDAbIAZnBXWV6FMKQ5iE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>pgISVGDJo5i3UGBOiWEHkqC+Z6YigFmyZazNONFTnjST+AhnTGEtAM3Bd42/tAOnPR8J22vTDCEf4/Qz1n7ZH5ug40cjH9qOIx+bz7keayp3rz7LsWx0OH7CuzfxhObfemJYVlro1bVA0Utvc6NHSMJgida5EWmxpl/xY7FphFE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQRbpWNPg4aqlOfhoj0q0JUzANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwAdgBhAHIAdQBuAC0AUABDAFwAdgBhAHIAdQBuMB4XDTE3MDIwMjA2MzM1OFoXDTE4MDIwMjEyMzM1OFowJzElMCMGA1UEAx4cAHYAYQByAHUAbgAtAFAAQwBcAHYAYQByAHUAbjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEApgISVGDJo5i3UGBOiWEHkqC+Z6YigFmyZazNONFTnjST+AhnTGEtAM3Bd42/tAOnPR8J22vTDCEf4/Qz1n7ZH5ug40cjH9qOIx+bz7keayp3rz7LsWx0OH7CuzfxhObfemJYVlro1bVA0Utvc6NHSMJgida5EWmxpl/xY7FphFECAwEAATANBgkqhkiG9w0BAQsFAAOBgQA3+2pI5NZHKJZmyXp0WVp8jNhKd4pg26T+4O0B5sn9UWPgfVQa1Cp4Ft1bgXw+ijgUWo7gV10FB4Ptsxr3kxDXrG30nn49GIl+boMrinM7pPvr+hj2qxKbu9hyn2d/LUzg8oDQuHR4LyKdNVH65/pSOkpwG7ljBTBVX5PtbIwxnw==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

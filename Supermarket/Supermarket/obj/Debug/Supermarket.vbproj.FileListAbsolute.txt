@@ -1,0 +1,54 @@
+c:\users\varun\documents\visual studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.xml
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Resources.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.vbproj.GenerateResource.Cache
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.xml
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.WELCOME.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.USER_LOGIN.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.SIGNUP.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.CHANGE_PASSWORD.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.ADMIN_LOGIN.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.ADD_ADMIN.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.CUSTOMER_DETAILS.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.ORDER_DETAILS.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.PLACE_ORDER.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.PAYMENT.resources
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe.manifest
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\bin\Debug\Supermarket.application
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.exe.manifest
+C:\Users\varun\Documents\Visual Studio 2012\Projects\Supermarket\Supermarket\obj\Debug\Supermarket.application
+G:\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+G:\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+G:\Supermarket\Supermarket\obj\Debug\Supermarket.xml
+G:\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+H:\ \Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+H:\ \Supermarket\Supermarket\obj\Debug\Supermarket.exe
+H:\ \Supermarket\Supermarket\obj\Debug\Supermarket.xml
+H:\ \Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.xml
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe.manifest
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.application
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\bin\Debug\Supermarket.xml
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.ADD_ADMIN.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.CUSTOMER_DETAILS.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.ORDER_DETAILS.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.PAYMENT.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.PLACE_ORDER.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.WELCOME.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.USER_LOGIN.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.SIGNUP.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.CHANGE_PASSWORD.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.ADMIN_LOGIN.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.Resources.resources
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.vbproj.GenerateResource.Cache
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.exe.manifest
+C:\Users\Vasanth\Desktop\Supermarket\Supermarket\obj\Debug\Supermarket.application
